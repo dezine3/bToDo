@@ -27,7 +27,7 @@ Install dependencies with:
 
 ---
 
-## 🚀 How to Run (Windows CMD)
+## How to Run (Windows CMD)
 
 1. Open **Command Prompt**.
 2. Navigate to the folder containing the project files:
@@ -40,13 +40,13 @@ Install dependencies with:
 
 ---
 
-## 🔐 Encrypted Data
+## Encrypted Data
 
-All event and settings data is securely encrypted and saved to `britton_data.enc`.
+All event and settings data is securely encrypted and saved to `britton_data.enc`. Includes sample data.
 
 ---
 
-## 📦 Files Included
+## Files Included
 
 - `main.py` — Entry point
 - `main_window.py` — GUI and logic
@@ -55,7 +55,7 @@ All event and settings data is securely encrypted and saved to `britton_data.enc
 
 ---
 
-## 🛠 Features
+## Features
 
 - Add, edit, and delete events
 - Event reminders with toast notifications
@@ -65,6 +65,6 @@ All event and settings data is securely encrypted and saved to `britton_data.enc
 
 ---
 
-## 📝 License
+## License
 
 Created by Patrick Britton. Free to use and modify.
