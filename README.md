@@ -1,12 +1,5 @@
-
- __       ______          ____              
-/\ \     /\__  _\        /\  _`\            
-\ \ \____\/_/\ \/    ___ \ \ \/\ \    ___   
- \ \ '__`\  \ \ \   / __`\\ \ \ \ \  / __`\ 
-  \ \ \*\ \  \ \ \ /\ \*\ \\ \ \_\ \/\ \*\ \
-   \ \_,__/   \ \_\\ \____/ \ \____/\ \____/
-    \/___/     \/_/ \/___/   \/___/  \/___/ 
-                                            
+![banner](https://github.com/user-attachments/assets/cf43329b-f059-467e-8ab8-6de2d4b74926)
+                              
 
 # bToDo — A Simple Desktop Calendar with Event Management
 
@@ -27,9 +20,9 @@ Install dependencies with:
 
 ---
 
-## How to Run (Windows CMD)
+## How to Run
 
-1. Open **Command Prompt**.
+1. Open **Command Prompt or terminal**.
 2. Navigate to the folder containing the project files:
 
        cd path\to\bToDo
@@ -62,6 +55,11 @@ All event and settings data is securely encrypted and saved to `britton_data.enc
 - Encrypted local storage
 - Export to iCalendar (.ics)
 - Theming support (light/dark/custom styles)
+
+![Screenshot 2025-05-05 165911](https://github.com/user-attachments/assets/227475bf-a4aa-45f8-bb63-4244fccec4d8)
+![Screenshot 2025-05-05 165920](https://github.com/user-attachments/assets/09d46422-0e93-4775-8ac3-f7ddb97590e2)
+![Screenshot 2025-05-05 165938](https://github.com/user-attachments/assets/de5af0df-923d-4ebf-90a5-c0b7f26eff89)
+![Screenshot 2025-05-05 165956](https://github.com/user-attachments/assets/dc2b346c-a64c-493f-9add-4fbe05dc05d2)
 
 ---
 
