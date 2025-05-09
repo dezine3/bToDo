@@ -1,0 +1,92 @@
+# --- User Specified ---
+# Zip file
+bToDo.zip
+
+# PyInstaller spec file
+main.spec
+
+# Folders
+RELEASES/
+New folder/
+
+# Python cache
+__pycache__/
+
+# --- Common Python / IDE / OS ignores ---
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging (PyInstaller and others)
+build/
+dist/
+*.egg-info/
+*.egg
+*.exe
+*.msi
+*.dmg
+*.pkg
+
+# Virtual Environments
+.env/
+env/
+venv/
+.venv/
+ENV/
+VENV/
+*/ENV/
+*/VENV/
+*/.env/
+*/.venv/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# User-specific data and settings (if not intended for the repository)
+britton_data.enc
+*.bak
+*.tmp
+
+# Exported calendar files (if they are user-specific outputs and not part of the source)
+*.ics
+
+# Log files
+*.log
+logs/
+
+# Coverage data
+.coverage
+.coverage.*
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local settings files (common pattern)
+local_settings.py
+settings.local.py
+
+# Secrets (if any are stored in files with these names)
+secrets.json
+secrets.yaml
+.secrets
