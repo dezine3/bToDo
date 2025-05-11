@@ -90,3 +90,8 @@ settings.local.py
 secrets.json
 secrets.yaml
 .secrets
+
+# Other
+
+*.spec
+pseudo-code.md
